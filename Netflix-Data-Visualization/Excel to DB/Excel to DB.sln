@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Excel to DB", "Excel to DB\Excel to DB.dtproj", "{B1DC9FB6-5AAA-4E46-8DD0-B180ED8A8988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1DC9FB6-5AAA-4E46-8DD0-B180ED8A8988}.Development|Default.ActiveCfg = Development
+		{B1DC9FB6-5AAA-4E46-8DD0-B180ED8A8988}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2378BD46-C73B-43F3-A6AD-064BD56A9E82}
+	EndGlobalSection
+EndGlobal
